@@ -1,0 +1,23 @@
+.bolded { 
+    font-weight: bold; 
+}
+
+.italic {
+    font-style:italic;
+}
+
+.light {
+    font-weight: lighter;
+}
+
+.list-inline { 
+    text-decoration-line: line-through; 
+
+}
+.centrato {
+    text-align: center;
+}
+
+.allineato_a_destra{
+    text-align: right;
+}
